@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4635ac58_30b4aea5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-16T03:30:57Z",
+      "side": 1,
+      "message": "i dont think we need msm_npu, nothing uses it, also the other two msm_audio headers",
+      "revId": "35c54563f21241420baa034303fffe68eaa466ad",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}

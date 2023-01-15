@@ -328,7 +328,7 @@ struct msm_vidc_metadata_ltr_payload {
 /*default when layer ID isn't specified*/
 #define MSM_VIDC_ALL_LAYER_ID 0xFF
 
-static inline unsigned int VENUS_EXTRADATA_SIZE(int width, int height)
+static __inline__ unsigned int VENUS_EXTRADATA_SIZE(int width, int height)
 {
 	(void)height;
 	(void)width;

@@ -16,6 +16,24 @@
       "message": "was this generated",
       "revId": "66eeefc62d7239a4a0a5c5225a402ef642f731d8",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3223ab5_d9f53217",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000047
+      },
+      "writtenOn": "2023-01-30T07:36:25Z",
+      "side": 1,
+      "message": "yes, using clo export-headers.py",
+      "parentUuid": "6ee3b993_dc51d0f6",
+      "revId": "66eeefc62d7239a4a0a5c5225a402ef642f731d8",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
